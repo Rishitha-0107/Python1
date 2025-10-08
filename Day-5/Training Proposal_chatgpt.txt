@@ -1,0 +1,129 @@
+Training Proposal: 300-Hour Data Science & AI Program at CVR
+
+Engineering College
+
+1. Introduction
+Tekworks Solutions Pvt. Ltd., an ISO 9001:2015 certified organization with a proven track record of training
+over 10,000+ students and empowering 40,000+ learners through its advanced LMS platform, proposes a
+300-hour Data Science & AI Center of Excellence (CoE) program at CVR Engineering College. This
+industry-integrated initiative aims to equip students with practical, job-ready skills in Artificial Intelligence,
+Data Science, and Emerging Technologies.
+2. Program Overview
+Duration: 300 Hours
+Structure: Instructor-led sessions + Hands-on Labs + Capstone Projects
+Delivery Mode: On-campus sessions supplemented with LMS-based self-paced content
+Target Audience: Pre-final & final-year B.Tech students from CSE, IT, and ECE streams
+3. Curriculum Snapshot
+The program is structured in 6 progressive phases to build deep expertise:
+
+Phase | Module | Key Topics
+------|--------|-----------
+1 | Python for Data Science | Numpy, Pandas, Data Visualization
+2 | Statistics & Probability | Hypothesis Testing, Probability Distributions
+3 | Machine Learning | Regression, Classification, Clustering, Model Evaluation
+4 | Deep Learning | ANN, CNN, RNN with TensorFlow & Keras
+5 | NLP & Computer Vision | NLTK, OpenCV, Image & Text Analysis
+6 | Capstone & Deployment | End-to-end Real-Time Projects, Git, Flask, Streamlit
+4. Program Outcomes for Students
+Industry-Relevant Skillsets
+- Core understanding of AI & ML with Python
+- Hands-on experience using Jupyter, Scikit-learn, TensorFlow, and Keras
+
+Practical, Project-Based Exposure
+- At least two full-scale projects using real-time datasets
+- Final capstone project focusing on societal or industrial use cases
+
+Career Readiness Support
+- Sessions on resume building, LinkedIn optimization
+
+- Mock technical & HR interviews
+
+Certification & Recognition
+- Co-branded Certificate from Tekworks & CVR Engineering College
+- Digital skill badge issuance for online profiles
+
+Ongoing Learning Access
+- Full access to Tekworks' Learning Management System (LMS)
+- Downloadable resources, project templates, quizzes, and recordings
+5. Key Takeaways for Students
+Takeaway | Description
+--------|------------
+Applied Learning | More than 60% of time allocated to coding, problem-solving, and modeling.
+Project Portfolio | Each student will develop a personalized GitHub repository with working projects.
+Mentor Connect | Industry mentors will guide during projects and problem-solving labs.
+Job-Aligned Syllabus | Content aligned with industry job roles like Data Analyst, ML Engineer, AI Developer.
+Real-World Data | Datasets from healthcare, e-commerce, government, and telecom domains.
+Soft Skills & Interview Prep | Communication, group discussions, and interview strategies included.
+6. Tekworks Support Structure
+- Dedicated Program Manager
+- Weekly Monitoring & Student Progress Dashboards
+- Workshops with Guest Industry Speakers
+- Optional Internship/Placement Pathways
+7. Conclusion
+The proposed 300-hour Data Science & AI Center of Excellence Program by Tekworks will empower CVR
+Engineering College students with the competencies demanded by today's data-driven world. This structured,
+outcome-focused approach not only enhances employability but also fosters innovation, enabling students to
+emerge as confident, skilled AI professionals.
+
+
+Phase 1: Python Programming – 40 Hours			
+Week	Topics	Hours	Activities
+1	Python Basics: variables, data types, control flow	10	Hands-on coding
+2	Functions, Modules, File I/O, Exception Handling	10	Practice mini-tasks
+3	OOP in Python, Libraries, Virtual Envs	10	Task: Build simple class-based system
+			
+			
+Phase 2: Data Analysis & EDA – 50 Hours			
+Week	Topics	Hours	Activities
+5	NumPy (arrays, broadcasting, operations)	10	Exercises, visual examples
+6	Pandas (Series, DataFrames, operations, merging)	15	Task: Clean messy dataset
+7	Matplotlib & Seaborn (visualization)	10	Plotting project data
+8	EDA: Missing values, outliers, correlations, distributions	15	Mini Project 2: Exploratory dashboard (e.g., HR Analytics)
+			
+			
+			
+Phase 3: Machine Learning – 80 Hours			
+Week	Topics	Hours	Activities
+9	ML Introduction, Scikit-learn framework	10	Terminology, pipelines
+10–11	Supervised Learning: Linear, Logistic, KNN, Decision Trees	20	Mini projects: Student score prediction, classification
+12	Model Evaluation: Accuracy, Precision, Recall, AUC	10	Group task: Model comparisons
+13–14	Unsupervised Learning: Clustering, PCA, Anomaly Detection	20	Mini Project 3: Customer Segmentation
+15	Hyperparameter tuning (GridSearch, CV), pipelines	10	Optimization challenge
+16	End-to-End ML Project	10	Full-cycle delivery (data to model to report)
+			
+			
+			
+Phase 4: Deep Learning – 40 Hours			
+Week	Topics	Hours	Activities
+17	Intro to Neural Networks, Perceptrons, Tensors	10	Use TensorFlow/Keras
+18	MLPs, Activation Functions, Optimizers	10	Task: CNNs
+19	Regularization, Dropout, Model saving/loading	10	Review 
+20	CNNs, Image classification (CIFAR, MNIST)	10	Mini Project 4: Image classification custom data
+			
+			
+Phase 5: NLP – 30 Hours			
+Week	Topics	Hours	Activities
+21	Text preprocessing, vectorization (TF-IDF, Count)	10	Use NLTK, SpaCy
+22	Sentiment analysis, topic modeling (LDA)	10	Mini Project 5: Product review classifier
+23	Advanced: Word Embeddings, RNN intro	10	Hands-on with GloVe, LSTM basics, Word 2 Vec
+			
+			
+Phase 6: GenAI (Generative AI) – 20 Hours			
+Week	Topics	Hours	Activities
+24	Introduction to LLMs	10	Tranformers
+Encoderonly 
+Decoderonly architecture with Huggingface API
+like BERT GPT LLama versions 
+25	LangChain, OpenAI APIs, GoogleAI API 	10	GenAI 
+RAG , RAG Components
+Prompt Engineering and types and templates for specific task
+RAG with Langchain
+26	KPI's 	10	Crieterias for integreting various components in RAG
+			
+			
+Mini Projects + Main Project + JIRA Tasks – 40 Hours			
+Week	Activities	Hours	
+Spanning Across	Mini Projects (at end of each major module)	20	
+Weeks 27–28	Capstone Project: Real-world cases	20	
+BA Role	Story creation, task planning in JIRA, Sprint reviews	Included	
+
