@@ -1,0 +1,66 @@
+===== DATA VALIDATION REPORT =====
+
+Rows: 7043
+Columns: 21
+
+🔸Missing Values:
+
+customerID          0
+gender              0
+SeniorCitizen       0
+Partner             0
+Dependents          0
+tenure              0
+PhoneService        0
+MultipleLines       0
+InternetService     0
+OnlineSecurity      0
+OnlineBackup        0
+DeviceProtection    0
+TechSupport         0
+StreamingTV         0
+StreamingMovies     0
+Contract            0
+PaperlessBilling    0
+PaymentMethod       0
+MonthlyCharges      0
+TotalCharges        0
+Churn               0
+dtype: int64
+
+
+🔸Duplicate Rows: 0
+
+🔸Datatypes:
+
+customerID           object
+gender               object
+SeniorCitizen         int64
+Partner               int64
+Dependents            int64
+tenure                int64
+PhoneService          int64
+MultipleLines         int64
+InternetService      object
+OnlineSecurity        int64
+OnlineBackup          int64
+DeviceProtection      int64
+TechSupport           int64
+StreamingTV           int64
+StreamingMovies       int64
+Contract             object
+PaperlessBilling      int64
+PaymentMethod        object
+MonthlyCharges      float64
+TotalCharges        float64
+Churn                 int64
+dtype: object
+
+
+Required Columns Check:
+
+tenure — OK
+MonthlyCharges — OK
+TotalCharges — OK
+Churn — OK
+
